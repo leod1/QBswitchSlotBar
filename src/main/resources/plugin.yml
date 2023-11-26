@@ -1,0 +1,6 @@
+name: QBswitchSlotBar
+version: '${project.version}'
+main: fr.leod1.QBswitchSlotBar
+api-version: 1.20
+authors: [ leod1 ]
+description: switchSlotBar for QB
